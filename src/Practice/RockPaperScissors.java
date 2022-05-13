@@ -34,9 +34,9 @@ public class RockPaperScissors {
                 System.out.println("Paper Wins This Round!");
             } else if (handOne.equalsIgnoreCase("Scissors") && handTwo.equalsIgnoreCase("Paper") || handOne.equalsIgnoreCase("Paper")
                 && handTwo.equalsIgnoreCase("Scissors")) {
-                System.out.println("Scissors Win This Round!");
+                System.out.println("WINNER WINNER CHICKEN DINNER!");
             } else {
-            System.out.println("That's not a valid option");
+            System.out.println("WRONG");
 
         }
 
